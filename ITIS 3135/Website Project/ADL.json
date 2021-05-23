@@ -1,0 +1,26 @@
+{"ADL":[
+	{
+		"name":"ADLs: activities of daily living (toileting, hyginem bathing, mobility, feeding, sex, etc.) these DO NOT require a high level of inellect and are considered more basic."
+	},
+	{
+		"name":"IADL: instrumental activities of daily living (cooking, shopping, parenting, pet care, etc.) these DO require intellectual competence and planning/preperation."
+	},
+	{
+		"name":"Health management: maintaining ones health, healthdevices, appointments, medicine."
+	},
+	{
+		"name":"Work: jobs, volunteering, manual labor"
+	},
+	{
+		"name":"Play: engaging in play, suspension of reality"
+	},
+	{
+		"name":"Education: formal (school) or informal (learning a new skill like how to play piano, etc.)"
+	},
+	{
+		"name":"Rest/Sleep: rest, sleeping, sleep preparation"
+	},
+	{
+		"name":"Social Participation: interacting with family, peers, friends, relationships"
+	}
+]}

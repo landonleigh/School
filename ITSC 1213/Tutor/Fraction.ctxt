@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Fraction
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Fraction\ here.\r\n\r\n\ @author\ Landon\ Leigh\r\n\ @version\ 3/19/2019\r\n
+comment1.params=
+comment1.target=Fraction()
+comment10.params=
+comment10.target=Fraction\ random()
+comment11.params=
+comment11.target=java.lang.String\ toString()
+comment2.params=inNum\ inDen
+comment2.target=Fraction(int,\ int)
+comment3.params=
+comment3.target=void\ simplify()
+comment4.params=other
+comment4.target=Fraction\ add(Fraction)
+comment5.params=other
+comment5.target=Fraction\ subtract(Fraction)
+comment6.params=other
+comment6.target=Fraction\ multiply(Fraction)
+comment7.params=other
+comment7.target=Fraction\ divide(Fraction)
+comment8.params=other
+comment8.target=boolean\ equals(Fraction)
+comment8.text=public\ int\ compareTo(Fraction\ other)\r\n\ \ \ \ {\r\n\ \ \ \ \ \ \ \ return\ Fraction.compareTo(other.Fraction);\r\n}
+comment9.params=
+comment9.target=double\ decimalValue()
+numComments=12

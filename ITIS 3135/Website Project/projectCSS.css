@@ -1,0 +1,144 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #eeeeee;
+}
+h1 {
+    color: Black;
+    font-size: 30pt;
+    padding-bottom: 50px;
+}
+main {
+    padding-top: 50px;
+}
+
+.homeimg {
+    width 700px;
+    height: 300px;
+}
+
+.homeimg img {
+    max-width 100%;
+    max-height: 100%;
+}
+
+.resourcesimg {
+    width 700px;
+    height: 300px;
+}
+
+.resourcesimg img {
+    max-width 100%;
+    max-height: 100%;
+}
+
+.bx-wrapper {
+    margin-bottom: 20px;
+}
+#id_pager {
+    text-align: center;
+    font-size: 90%;
+    color: green;
+}
+
+header {
+    position: fixed;
+    background-color: white;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: 24px;
+    text-align: left;
+    padding-top: 6px;
+    padding-bottom: 15px;
+    padding-left: 10px;
+    padding-right: 20px;
+    word-spacing: 50px;
+    box-shadow: 0 0 25px 0 black;
+}
+
+header div a {
+    color: black;
+    text-decoration: none;
+}
+
+header img {
+    height: 30px;
+}
+
+footer {
+    font-style: italic;
+    font-size: 12px;
+    text-align: center;
+    position: bottom;
+    left: 0;
+    bottom: 0;
+    right: 0;
+}
+
+study p {
+    text-align: center;
+}
+
+.column {
+    float: left;
+    width: 50%;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+body {
+    text-align: center;
+    padding-left: 500px;
+    padding-right: 500px;
+}
+
+.quiz {
+    text-align: left;
+}
+
+#mask {
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: 9000;
+    background-color: #000;
+    display: none;
+}
+
+#boxes .window {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 440px;
+    height: 200px;
+    display: none;
+    z-index: 9999;
+    padding: 20px;
+    border-radius: 15px;
+    text-align: center;
+}
+
+#boxes #dialog {
+    width: 500px;
+    height: 200px;
+    padding: 10px;
+    background-color: #ffffff;
+    font-family: 'Segoe UI Light', sans-serif;
+    font-size: 15pt;
+}
+
+#popupfoot {
+    font-size: 16pt;
+    position: absolute;
+    bottom: 0px;
+    width: 250px;
+    left: 250px;
+}
+
+
+
+

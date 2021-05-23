@@ -1,0 +1,22 @@
+{"tasks":[
+	{
+		"name":"Do ADL's",
+		"desc":"Make sure you are always doing your activities of daily living to the best of your ability.",
+		"time":"Every day!"
+	},
+	{
+		"name":"SOAP Notes",
+		"desc":"Make sure you are taking notes in the SOAP form. This includes the subjective, objective, assessment, and plan.",
+		"time":"Whenever taking notes about a patient."
+	},
+	{
+		"name":"Study for Classes",
+		"desc":"For whichever classes you are in, make sure that you are studying and doing well in them. If they are related to ocupationaly therapy in any way you want to pay extra close attention",
+		"time":"Whenever necessary in the semester."
+	},
+	{
+		"name":"Complete Requirements",
+		"desc":"To become an OT, you must complete the prerequisites to go to school for it!",
+		"time":"During undergrad and in grad school."
+	}
+]}

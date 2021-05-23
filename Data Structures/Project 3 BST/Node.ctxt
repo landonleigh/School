@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Node
+comment0.text=\r\n\ Class\ to\ allow\ nodes\ to\ reference\ children\ and\ contain\ string\ and\ count\ frequency\r\n\r\n\ @author\ Landon\ Leigh\r\n\ @version\ 8/2/2019\r\n
+comment1.params=w
+comment1.target=Node(java.lang.String)
+comment2.params=
+comment2.target=void\ wordFrequency()
+comment3.params=
+comment3.target=int\ getFrequency()
+comment4.params=
+comment4.target=java.lang.String\ getWord()
+comment5.params=
+comment5.target=Node\ getLeftChild()
+comment6.params=
+comment6.target=Node\ getRightChild()
+comment7.params=child
+comment7.target=int\ childrenNum(Node)
+comment8.params=wordAdd
+comment8.target=void\ add(java.lang.String)
+numComments=9

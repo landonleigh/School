@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Java Jam Coffee House</title>
+		<meta name="description" content="3135 Activity">
+		<meta charset="UTF-8">
+		<link rel="stylesheet" type="text/css" href="Leigh-Activity3.css">
+	</head>
+
+	<body>
+		<header>
+			<h1>JavaJam Coffee House</h1>
+		</header>
+		
+		<main>
+
+			<p>We are a gourmet coffee shop that serves snacks, coffee, tea, and soft drinks. Visit us to check out our:</p>
+			<ul>
+				<li>Specialty Coffee and Tea</li>
+				<li>Bagls, Muffins, and Organic Snacks</li>
+				<li>Music and Poetry Readings</li>
+				<li>Open Mic Night</li>
+			</ul>
+
+
+			<h2>Menu</h2>
+
+			<table>
+				<tr>
+					<th colspan="2">Coffee Selections</th>
+				</tr>
+				<tr class="altrow">
+					<td class="label">
+						Just Java
+					</td>
+					<td>
+						Regular house blend, decaffeinated coffee, or flavor of the day.<br>
+						Endless Cup $2.00
+					</td>
+				</tr>
+				<tr>
+					<td class="label">
+						Cafe au Lait
+					</td>
+					<td>
+						House blended coffee infused into a smooth, steamed milk.<br>
+						Small $2.00, Medium $4.00, Large $6.00
+					</td>
+				</tr>
+				<tr class="altrow">
+					<td class="label">
+						Iced Cappuccino
+					</td>
+					<td>
+						Sweetened espresso blended with icy-cold mil and served in a chilled glass. $4.75
+					</td>
+				</tr>
+			</table>
+
+			<h2>Music</h2>
+			<p>Local musicians play every Friday and Saturday nights. Sunday night is open mic night.</p>
+
+			<h2>Newsletter</h2>
+			<p>Enter your information to sign up for our newsletter!</p>
+			<form action="#">
+				<div>
+					<label for="name">Name</label>
+					<input class="box" type="text" id="name" name="name" size="28" required placeholder="ex: John Doe"><br>
+					<label for="phone">Phone Number</label>
+					<input class="box" type="number" id="phone" name="phone" required><br>
+					<label for="email">Email Address</label>
+					<input class="box" type="email" id="email" name="email" required><br><br>
+				</div>
+				<div>
+					<input type="checkbox" id="offers" name="offers" checked>
+					<label for="offers">Offers</label>
+				</div>
+				<div>
+					<input type="checkbox" id="updates" name="updates">
+					<label for="updates">Updates</label><br><br>
+				</div>
+				<div>
+					<input type="radio" id="daily" name="daily" value="daily" checked>
+					<label for="daily">Daily Mail</label>
+				</div>
+				<div>
+					<input type="radio" id="weekly" name="weekly" value="weekly">
+					<label for="weekly">Weekly Mail</label><br><br>
+				</div>
+				<div>
+					<label for="method">Select method of notifications:</label>
+					<select name="method" id="method">
+						<option value="volvo">Email</option>
+						<option value="saab">Text Message</option>
+					</select><br><br>
+				</div>
+			</form>
+			<button class="pointer" type="button">Submit</button>
+
+			<h2>Location</h2>
+			<p>JavaJam is located at<br>
+			8544 University City Blvd<br>
+			Charlotte, NC 28213.<br>
+			See <a id="locationlink" href="https://maps.google.com/">Google Maps</a> for directions.</p>
+
+		</main>
+
+		<footer>
+			<p>Copyright © JavaJam Coffee House<br>
+			manager@javajam.com</p>
+			<a href="https://validator.w3.org/check?uri=referer">Validate HTML</a> 
+			<a href="https://jigsaw.w3.org/css-validator/check/referer">Validate CSS</a>
+		</footer>
+
+	</body>
+</html>

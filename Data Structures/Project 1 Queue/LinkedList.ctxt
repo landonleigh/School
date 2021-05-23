@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=LinkedList
+comment0.text=\r\n\ This\ class\ is\ the\ data\ structure\ \ that\ holds\ the\ Customer\ objects\r\n\r\n\ @author\ Landon\ Leigh\r\n\ @version\ 7/12/2019\r\n
+comment1.params=
+comment1.target=LinkedList()
+comment2.params=
+comment2.target=boolean\ isEmpty()
+comment3.params=inCustomer
+comment3.target=void\ addQueue(Customer)
+comment4.params=
+comment4.target=Customer\ removeQueue()
+comment5.params=
+comment5.target=Customer\ getFirst()
+comment6.params=
+comment6.target=int\ getLength()
+numComments=7

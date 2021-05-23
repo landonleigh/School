@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Parrot Post NewAnouncement</title>
+    <link rel="stylesheet" href="Group21projectCSS.css">
+    <script src="Group21projectJS.js"></script>
+</head>
+
+<body>
+<header>
+    <!-- Navigation bar at top -->
+    <div class="topnav">
+        <a href="announcements.html">Announcements</a>
+        <strong>Calendar</strong>
+        <a href="contacts.html">Contacts</a>
+        <a href="other.html">Other</a>
+        <a href="account.html">Account</a>
+    </div>
+</header>
+<main>
+    <h2>Add new event:</h2>
+
+    <label for="Month">Month:</label>
+    <select name="Month" id="Month">
+        <option value="January">January</option>
+        <option value="February">February</option>
+        <option value="March">March</option>
+        <option value="April">April</option>
+        <option value="May">May</option>
+        <option value="June">June</option>
+        <option value="July">July</option>
+        <option value="August">August</option>
+        <option value="September">September</option>
+        <option value="October">October</option>
+        <option value="November">November</option>
+        <option value="December">December</option>
+    </select><br><br>
+
+    <label for="Day">Day:</label>
+    <select name="Day" id="Day">
+        <option value="1">1</option>
+        <option value="2">2</option>
+        <option value="3">3</option>
+        <option value="4">4</option>
+        <option value="5">5</option>
+        <option value="6">6</option>
+        <option value="7">7</option>
+        <option value="8">8</option>
+        <option value="9">9</option>
+        <option value="10">10</option>
+        <option value="11">11</option>
+        <option value="12">12</option>
+        <option value="13">13</option>
+        <option value="14">14</option>
+        <option value="15">16</option>
+        <option value="17">17</option>
+        <option value="18">18</option>
+        <option value="19">19</option>
+        <option value="20">20</option>
+        <option value="21">21</option>
+        <option value="22">22</option>
+        <option value="23">23</option>
+        <option value="24">24</option>
+        <option value="25">25</option>
+        <option value="26">26</option>
+        <option value="27">27</option>
+        <option value="28">28</option>
+        <option value="29">29</option>
+        <option value="30">30</option>
+        <option value="31">31</option>
+    </select><br><br>
+
+    <label for="title">Title:</label>
+    <input type="text" id="title" name="title"><br><br>
+
+    <p>Description:</p>
+    <textarea rows="5" cols="60" name="remind"></textarea><br><br>
+
+    <form action="calendar.html" method="post">
+        <button type="submit">Add Event</button><br><br>
+    </form>
+    <form action="calendar.html" method="post">
+        <button type="submit">Cancel</button><br><br>
+    </form>
+
+
+</main>
+
+<footer>
+</footer>
+</body>
+</html>

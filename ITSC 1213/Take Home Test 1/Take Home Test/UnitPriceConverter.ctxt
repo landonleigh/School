@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=UnitPriceConverter
+comment0.text=\r\n\ This\ program\ converts\ the\ weights\ from\ pounds\ to\ ounces\ and\ allows\ calculaton\r\n\ of\ price\ per\ each\ pound/ounce.\r\n\r\n\ @author\ Landon\ Leigh\r\n\ @version\ 2/17/2019\r\n
+comment1.params=
+comment1.target=UnitPriceConverter()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ UnitPriceConverter\r\n
+comment2.params=inPrice\ inPounds
+comment2.target=UnitPriceConverter(double,\ double)
+comment3.params=inPrice\ inPounds
+comment3.target=void\ setAmount(double,\ double)
+comment4.params=
+comment4.target=double\ getPrice()
+comment5.params=
+comment5.target=double\ getPounds()
+comment6.params=
+comment6.target=double\ getPricePerPound()
+comment7.params=
+comment7.target=double\ getPricePerOunce()
+numComments=8

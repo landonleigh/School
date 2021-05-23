@@ -1,0 +1,4 @@
+1) Go to https://webpages.uncc.edu/lleigh/4155ProjectGroup21/login.html
+2) To get past the login page, you can enter any information into the text boxes
+	such as Domain: 123, Username: 123, Password: 123
+	An actual username and password will be required

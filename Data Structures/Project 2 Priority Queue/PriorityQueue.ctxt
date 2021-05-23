@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=PriorityQueue
+comment0.text=\r\n\ This\ class\ is\ the\ data\ structure\ that\ holds\ the\ heap\ for\ the\ Customer\ objects\r\n\r\n\ @author\ Landon\ Leigh\r\n\ @version\ 7/22/2019\r\n
+comment1.params=
+comment1.target=PriorityQueue()
+comment2.params=
+comment2.target=boolean\ isEmpty()
+comment3.params=
+comment3.target=int\ getSize()
+comment4.params=customer
+comment4.target=void\ addQueue(PriorityCustomer)
+comment5.params=
+comment5.target=PriorityCustomer\ removeQueue()
+comment6.params=
+comment6.target=PriorityCustomer\ getFirst()
+numComments=7

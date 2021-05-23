@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Book
+comment0.text=\r\n\ This\ is\ a\ template\ for\ a\ Book\ object.\r\n\ This\ is\ written\ as\ an\ example\ of\ aggregation.\r\n\ \r\n\ @author\ Lorrie\ Lehmann\ \r\n\ @version\ v1\r\n
+comment1.params=
+comment1.target=Book()
+comment2.params=inTitle\ inISBN\ inCost\ inYear\ inWriter\ p
+comment2.target=Book(java.lang.String,\ java.lang.String,\ double,\ int,\ Author,\ Publisher)
+comment3.params=inBook
+comment3.target=Book(Book)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Driver
+comment0.text=\r\n\ This\ is\ a\ test\ program\ for\ the\ Book\ class\r\n\ \r\n\ @author\ L.\ Lehmann\ \r\n\ @version\ v1\r\n\ This\ driver\ illustrates\ the\ use\ of\ aggregation.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
