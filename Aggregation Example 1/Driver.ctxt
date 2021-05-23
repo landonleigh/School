@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Driver
+comment0.text=\r\n\ This\ class\ demonstrates\ the\ use\ of\r\n\ the\ Student\ and\ Advisor\ classes.\r\n\ Play\ with\ it-\ change\ some\ code\r\n\ and\ add\ your\ own\ code\ to\ create\ more\ \r\n\ objects\ using\ the\ other\ constructors\r\n\ \r\n\ @author\ Lorrie\ Lehmann\r\n\ @version\ v1\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

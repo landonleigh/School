@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Author
+comment0.text=\r\n\ This\ class\ holds\ a\ template\ for\ a\ Author\ object\r\n\ \r\n\ @author\ Lorrie\ Lehmann\r\n\ @version\ v1\r\n
+comment1.params=
+comment1.target=Author()
+comment2.params=inLast\ inFirst\ inAddress\ yearOfBirth
+comment2.target=Author(java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+comment3.params=inAuthor
+comment3.target=Author(Author)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=inAuthor
+comment5.target=boolean\ equals(Author)
+comment6.params=inAuthor
+comment6.target=int\ compareTo(Author)
+numComments=7
