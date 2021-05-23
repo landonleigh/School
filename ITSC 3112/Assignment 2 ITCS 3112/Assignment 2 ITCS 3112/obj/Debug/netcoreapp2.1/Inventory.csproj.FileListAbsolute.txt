@@ -1,0 +1,10 @@
+C:\Users\Landon\source\repos\Assignment 2 ITCS 3112\Assignment 2 ITCS 3112\bin\Debug\netcoreapp2.1\Inventory.deps.json
+C:\Users\Landon\source\repos\Assignment 2 ITCS 3112\Assignment 2 ITCS 3112\bin\Debug\netcoreapp2.1\Inventory.runtimeconfig.json
+C:\Users\Landon\source\repos\Assignment 2 ITCS 3112\Assignment 2 ITCS 3112\bin\Debug\netcoreapp2.1\Inventory.runtimeconfig.dev.json
+C:\Users\Landon\source\repos\Assignment 2 ITCS 3112\Assignment 2 ITCS 3112\bin\Debug\netcoreapp2.1\Inventory.dll
+C:\Users\Landon\source\repos\Assignment 2 ITCS 3112\Assignment 2 ITCS 3112\bin\Debug\netcoreapp2.1\Inventory.pdb
+C:\Users\Landon\source\repos\Assignment 2 ITCS 3112\Assignment 2 ITCS 3112\obj\Debug\netcoreapp2.1\Inventory.csproj.CoreCompileInputs.cache
+C:\Users\Landon\source\repos\Assignment 2 ITCS 3112\Assignment 2 ITCS 3112\obj\Debug\netcoreapp2.1\Inventory.AssemblyInfoInputs.cache
+C:\Users\Landon\source\repos\Assignment 2 ITCS 3112\Assignment 2 ITCS 3112\obj\Debug\netcoreapp2.1\Inventory.AssemblyInfo.cs
+C:\Users\Landon\source\repos\Assignment 2 ITCS 3112\Assignment 2 ITCS 3112\obj\Debug\netcoreapp2.1\Inventory.dll
+C:\Users\Landon\source\repos\Assignment 2 ITCS 3112\Assignment 2 ITCS 3112\obj\Debug\netcoreapp2.1\Inventory.pdb
