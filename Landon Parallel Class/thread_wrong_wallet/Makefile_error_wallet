@@ -1,0 +1,15 @@
+PRJ_NAME=thread_error_wallet
+
+GCC=g++
+
+OUTPUT=${PRJ_NAME}.exe
+SOURCES=${PRJ_NAME}.cpp
+CCFLAGS=-lpthread -std=c++11 -g3 -O1
+
+all: ${OUTPUT}
+${OUTPUT}:
+	${GCC} -o ${OUTPUT} ${CCFLAGS} ${SOURCES}
+    
+clean:
+	rm -f ${OUTPUT}
+    
