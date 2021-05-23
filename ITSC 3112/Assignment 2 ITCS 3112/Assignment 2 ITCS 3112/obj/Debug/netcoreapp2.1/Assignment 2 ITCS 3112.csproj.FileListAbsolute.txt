@@ -1,0 +1,11 @@
+C:\Users\Landon\source\repos\Assignment 2 ITCS 3112\Assignment 2 ITCS 3112\bin\Debug\netcoreapp2.1\Assignment 2 ITCS 3112.deps.json
+C:\Users\Landon\source\repos\Assignment 2 ITCS 3112\Assignment 2 ITCS 3112\bin\Debug\netcoreapp2.1\Assignment 2 ITCS 3112.runtimeconfig.json
+C:\Users\Landon\source\repos\Assignment 2 ITCS 3112\Assignment 2 ITCS 3112\bin\Debug\netcoreapp2.1\Assignment 2 ITCS 3112.runtimeconfig.dev.json
+C:\Users\Landon\source\repos\Assignment 2 ITCS 3112\Assignment 2 ITCS 3112\bin\Debug\netcoreapp2.1\Assignment 2 ITCS 3112.dll
+C:\Users\Landon\source\repos\Assignment 2 ITCS 3112\Assignment 2 ITCS 3112\bin\Debug\netcoreapp2.1\Assignment 2 ITCS 3112.pdb
+C:\Users\Landon\source\repos\Assignment 2 ITCS 3112\Assignment 2 ITCS 3112\obj\Debug\netcoreapp2.1\Assignment 2 ITCS 3112.csprojAssemblyReference.cache
+C:\Users\Landon\source\repos\Assignment 2 ITCS 3112\Assignment 2 ITCS 3112\obj\Debug\netcoreapp2.1\Assignment 2 ITCS 3112.csproj.CoreCompileInputs.cache
+C:\Users\Landon\source\repos\Assignment 2 ITCS 3112\Assignment 2 ITCS 3112\obj\Debug\netcoreapp2.1\Assignment 2 ITCS 3112.AssemblyInfoInputs.cache
+C:\Users\Landon\source\repos\Assignment 2 ITCS 3112\Assignment 2 ITCS 3112\obj\Debug\netcoreapp2.1\Assignment 2 ITCS 3112.AssemblyInfo.cs
+C:\Users\Landon\source\repos\Assignment 2 ITCS 3112\Assignment 2 ITCS 3112\obj\Debug\netcoreapp2.1\Assignment 2 ITCS 3112.dll
+C:\Users\Landon\source\repos\Assignment 2 ITCS 3112\Assignment 2 ITCS 3112\obj\Debug\netcoreapp2.1\Assignment 2 ITCS 3112.pdb
